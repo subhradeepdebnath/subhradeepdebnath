@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=subhradeepdebnath&label=Profile%20Views&color=00F2FE&style=for-the-badge&v=2" alt="Visitor Badge" />
+<img src="https://komarev.com/ghpvc/?username=subhradeepdebnath&label=Profile%20Views&color=00F2FE&style=for-the-badge" alt="Visitor Badge" />
 <br><br>
 <h1>
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi, I'm Subhradeep Debnath
@@ -27,17 +27,17 @@
 
 <br>
 
-<div align="center">
-<h2>🚀 Technical Skills</h2>
-<br>
+<h2 align="center">🚀 Technical Skills</h2>
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mysql,ubuntu,vscode,git,github&perline=7" alt="Skills" />
 </a>
-<br><br>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Data_Analytics-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 <img src="https://img.shields.io/badge/Data_Analysis-MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 <img src="https://img.shields.io/badge/Database-SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</div>
+</p>
 
 <br>
 
@@ -53,27 +53,26 @@
 
 <br>
 
-<div align="center">
-<h2>📈 GitHub Activity & Analytics</h2>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=subhradeepdebnath&show_icons=true&theme=dracula&hide_border=true&v=2" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeepdebnath&theme=dracula&hide_border=true&v=2" width="48%" alt="GitHub Streak" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhradeepdebnath&layout=compact&theme=dracula&hide_border=true&v=2" width="48%" alt="Top Languages" />
-</div>
+<h2 align="center">📈 GitHub Activity & Analytics</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=subhradeepdebnath&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=subhradeepdebnath&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhradeepdebnath&layout=compact&theme=dracula&hide_border=true" width="48%" alt="Top Languages" />
+</p>
 
 <br>
 
-<div align="center">
-<h2>🏆 GitHub Achievements</h2>
-<br>
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=subhradeepdebnath&theme=dracula&no-frame=true&margin-w=15&v=2" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=subhradeepdebnath&theme=dracula&no-frame=true&margin-w=15" alt="Trophies" />
 </a>
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+reach+out!" alt="Thanks" />
-</div>
+</p>
