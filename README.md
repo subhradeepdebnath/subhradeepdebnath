@@ -1,67 +1,83 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Subhradeep%20Debnath&fontSize=50&fontAlignY=35&desc=Data%20Analytics%20%7C%20Python%20%7C%20CSIT%20Undergrad&descAlignY=55&descSize=20&animation=fadeIn" />
+
+<!-- Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=subhradeepdebnath&label=Profile%20Views&color=00F2FE&style=flat-square" alt="Visitor Badge" />
+
+<br><br>
+
+<!-- Animated Greeting -->
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey there, I'm Subhradeep!
+</h1>
+
+<!-- Dynamic Gradient Typing Text -->
+<p align="center">
+  <a href="https://github.com/subhradeepdebnath">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=CSIT+Undergrad+%40+ITER;Data+Analytics+%26+Python+Enthusiast;Building+AI+%26+Web+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/subhradeep-debnath-0057b324a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:subhradeepdebnath2004@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://leetcode.com/subhradeep2004"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
 </div>
 
+---
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/subhradeep-debnath-0057b324a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:subhradeepdebnath2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/subhradeep2004"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  
+### 🏆 GitHub Achievements
+<!-- Dynamic Trophies based on your GitHub Activity -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhradeepdebnath&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+</a>
+
+</div>
+
+---
+
+### 🌟 About Me
+* 🎓 Pursuing my **B.Tech in Computer Science & Information Technology (CSIT)** at ITER, SOA University.
+* 🧠 Obsessed with **Data Structures & Algorithms**, **Data Analytics**, and extracting stories from raw data.
+* 🚀 Currently building **CareerPrep AI** to help students with interviews and resumes.
+* 🐧 Linux enthusiast, always trying to optimize my Ubuntu dual-boot setup!
+* 📈 Documenting my coding journey on my [Python-DSA Repository](https://github.com/subhradeepdebnath/Python-DSA).
+
+<br>
+
+<div align="center">
+
+### 🚀 Tools & Technologies
+<!-- Beautiful unified icons layout -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,react,nodejs,express,ubuntu,vscode,git,github&perline=7" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analytics-Tableau_|_Excel-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
+
 </div>
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2>✦ About Me</h2>
-      <ul>
-        <li>🎓 B.Tech CSIT Undergrad at ITER, SOA University.</li>
-        <li>💡 Passionate about Python, Data Analytics, and problem-solving.</li>
-        <li>💻 Proud Linux (Ubuntu) user & open-source enthusiast.</li>
-        <li>🚀 Currently building impactful AI & Web solutions.</li>
-        <li>📂 Check my <a href="https://github.com/subhradeepdebnath/Python-DSA">Python-DSA</a> progress.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2>✦ Tech Arsenal</h2>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-14354C?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-14354C?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-        <br>
-        <img src="https://img.shields.io/badge/SQL-14354C?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-14354C?style=flat-square&logo=microsoftexcel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tableau-14354C?style=flat-square&logo=Tableau&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/React-14354C?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-14354C?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-14354C?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ubuntu-14354C?style=flat-square&logo=ubuntu&logoColor=E95420" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🔥 Featured Works
 
-<h2>✦ Featured Missions</h2>
+* 🤖 **CareerPrep AI** *(Aug 2026)*: AI-powered placement & career readiness platform with Gemini API integration.
+* 📊 **Data Analysis Dashboards** *(Jul 2025)*: Complex data visualizations including a Product Sales (Excel) and Netflix Dashboard (Tableau).
+* 🎸 **SD Melody Mart** *(Mar 2024)*: A beautiful, responsive E-commerce interface for musical instruments.
 
-| 🚀 Project Name | 🛠️ Tech Stack | 📌 Description |
-| :--- | :--- | :--- |
-| **CareerPrep AI** | `Python`, `Flask`, `Gemini AI` | AI-powered career assistance platform for resume improvement and interview prep. |
-| **Data Dashboards** | `Excel`, `Tableau` | Interactive visual dashboards for Netflix content and Product Sales data. |
-| **TaskFlow Manager** | `HTML`, `CSS`, `JS` | Professional task manager web application with a responsive UI. |
-| **SD Melody Mart** | `HTML`, `CSS`, `JS` | Online musical instrument store featuring interactive product cards. |
-
-<h2>✦ Developer Metrics</h2>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhradeepdebnath&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhradeepdebnath&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeepdebnath&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" />
-</div>
+### 📈 Live GitHub Metrics
+<!-- Dark aesthetic stats cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=subhradeepdebnath&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeepdebnath&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
