@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Snake animation" width="100%" />
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=subhradeepdebnath&label=Profile%20Views&color=00F2FE&style=flat-square" alt="Visitor Badge" />
 
 <br><br>
@@ -14,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/subhradeepdebnath">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=>>>+Terminal+v1.0+Initialized;>>>+B.Tech+CSIT+Undergrad+%40+ITER;>>>+Passionate+about+Data+Analytics+%26+Python;>>>+Building+Impactful+AI+%26+Web+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=>>>+Terminal+v1.0+Initialized;>>>+B.Tech+CSIT+Undergrad+%40+ITER;>>>+Passionate+about+Data+Analytics+%26+Python;>>>+Building+Impactful+AI+%26+Web+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
