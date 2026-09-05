@@ -53,10 +53,12 @@
 
 <br>
 
+<br>
+
 <div align="center">
 <h2>📈 GitHub Activity & Analytics</h2>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=subhradeepdebnath&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=subhradeepdebnath&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeepdebnath&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhradeepdebnath&layout=compact&theme=dracula&hide_border=true" width="48%" alt="Top Languages" />
@@ -68,11 +70,11 @@
 <h2>🏆 GitHub Achievements</h2>
 <br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=subhradeepdebnath&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=subhradeepdebnath&theme=dracula&no-frame=true&margin-w=15" alt="Trophies" />
 </a>
 </div>
 
----
+<br>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+reach+out!" alt="Thanks" />
