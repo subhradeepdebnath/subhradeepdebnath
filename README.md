@@ -1,4 +1,6 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Subhradeep%20Debnath&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" />
+<br><br>
 <img src="https://komarev.com/ghpvc/?username=subhradeepdebnath&label=Profile%20Views&color=00F2FE&style=for-the-badge" alt="Visitor Badge" />
 <br><br>
 <h1>
