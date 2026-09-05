@@ -53,21 +53,9 @@
 
 <br>
 
-<h2 align="center">📈 GitHub Activity & Analytics</h2>
+<h2 align="center">📈 GitHub Streak</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhradeepdebnath&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=subhradeepdebnath&theme=dracula&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhradeepdebnath&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
-</div>
-
-<br>
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=subhradeepdebnath&theme=dracula&no-frame=true&margin-w=15&cache_seconds=86400" alt="Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=subhradeepdebnath&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
