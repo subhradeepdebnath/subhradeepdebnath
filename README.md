@@ -25,7 +25,7 @@
 * 💻 Expanding my knowledge in **Data Structures & Algorithms**, **Data Analytics**, and **Full-Stack Development**.
 * 🤖 Building AI-powered solutions like **CareerPrep AI** using Python, Flask, and Google Gemini.
 * 🐧 Operating on a Dell laptop with an Ubuntu dual-boot setup, constantly optimizing my development environment.
-* 📈 Check out my daily coding progress on my [Python-DSA Repository](https://github.com/subhradeepdebnath/Python-DSA).
+* 📈 Check out my daily coding progress on my [Python-Practice Repository](https://github.com/subhradeepdebnath/Python-Practice).
 
 <br>
 
